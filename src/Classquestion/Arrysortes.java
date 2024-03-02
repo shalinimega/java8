@@ -3,7 +3,7 @@ package Classquestion;
 public class Arrysortes {
 	public static void main(String[] args)
 	{
-		int[] nums= {89,56,23,45,12};
+		int[] nums= {89,56,23,45,12,88};
 		int temp=0;
 		for(int i=0;i<nums.length;i++)
 		{
